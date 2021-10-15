@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: linear-gradient(violet 0%,darkviolet 100%);
+    
+}
+h1{
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 400;
+}
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: 
+}
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: 
+}
+#chatbots{
+    width: 100%;
+    height: 800px;
+    background-color: 
+}
